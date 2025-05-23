@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Quick Start with MongoDB](https://cover-creator.labex.io/quick-start-with-mongodb.png)](https://labex.io/en/courses/quick-start-with-mongodb)
+[![Quick Start with MongoDB](https://cover-creator.labex.io/quick-start-with-mongodb.png)](https://labex.io/courses/quick-start-with-mongodb)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/quick-start-with-mongodb)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-mongodb)
 
 A comprehensive MongoDB course covering essential skills from basic CRUD operations to advanced topics like data modeling, indexing, error handling, and data relationships. Perfect for beginners and intermediate developers.
 
@@ -29,15 +29,15 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                | Difficulty   | Practice                                                                                                                    |
-|---------|-------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Your First MongoDB Lab           | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/mongodb-your-first-mongodb-lab-420660'>Start Lab</a>                 |
-|      02 | 📖 Create MongoDB Collection        | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/mongodb-create-mongodb-collection-420695'>Start Lab</a>              |
-|      03 | 🎯 Populate the Students Collection | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/mongodb-populate-the-students-collection-425481'>Start Challenge</a> |
-|      04 | 📖 Insert Data in MongoDB           | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/mongodb-insert-data-in-mongodb-420696'>Start Lab</a>                 |
-|      05 | 🎯 Honor Roll Tracker               | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/mongodb-honor-roll-tracker-425476'>Start Challenge</a>               |
-|      06 | 📖 Update MongoDB Records           | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/mongodb-update-mongodb-records-420823'>Start Lab</a>                 |
-|      07 | 📖 Delete MongoDB Data              | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/mongodb-delete-mongodb-data-420822'>Start Lab</a>                    |
+|   Index | Name                                | Difficulty   | Practice                                                                                                                 |
+|---------|-------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Your First MongoDB Lab           | Intermediate | <a target='_blank' href='https://labex.io/tutorials/mongodb-your-first-mongodb-lab-420660'>Start Lab</a>                 |
+|      02 | 📖 Create MongoDB Collection        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mongodb-create-mongodb-collection-420695'>Start Lab</a>              |
+|      03 | 🎯 Populate the Students Collection | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mongodb-populate-the-students-collection-425481'>Start Challenge</a> |
+|      04 | 📖 Insert Data in MongoDB           | Intermediate | <a target='_blank' href='https://labex.io/tutorials/mongodb-insert-data-in-mongodb-420696'>Start Lab</a>                 |
+|      05 | 🎯 Honor Roll Tracker               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mongodb-honor-roll-tracker-425476'>Start Challenge</a>               |
+|      06 | 📖 Update MongoDB Records           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mongodb-update-mongodb-records-420823'>Start Lab</a>                 |
+|      07 | 📖 Delete MongoDB Data              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mongodb-delete-mongodb-data-420822'>Start Lab</a>                    |
 
 ## More
 
