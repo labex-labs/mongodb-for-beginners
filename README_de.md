@@ -29,15 +29,39 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 ## Übungen
 
-|   Index | Name                                       | Schwierigkeit   | Übung                                                                                                                         |
-|---------|--------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Ihr erstes MongoDB-Lab                  | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-your-first-mongodb-lab-420660'>Labor Starten</a>               |
-|      02 | 📖 MongoDB-Sammlung (Collection) erstellen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-create-mongodb-collection-420695'>Labor Starten</a>            |
-|      03 | 🎯 Befüllen Sie die Students-Sammlung      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-populate-the-students-collection-425481'>Challenge Starten</a> |
-|      04 | 📖 Daten in MongoDB einfügen               | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-insert-data-in-mongodb-420696'>Labor Starten</a>               |
-|      05 | 🎯 Honor Roll Tracker                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-honor-roll-tracker-425476'>Challenge Starten</a>               |
-|      06 | 📖 MongoDB-Einträge aktualisieren          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-update-mongodb-records-420823'>Labor Starten</a>               |
-|      07 | 📖 MongoDB-Daten löschen                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-delete-mongodb-data-420822'>Labor Starten</a>                  |
+|   Index | Name                                                  | Schwierigkeit   | Übung                                                                                                                         |
+|---------|-------------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Ihr erstes MongoDB-Lab                             | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-your-first-mongodb-lab-420660'>Labor Starten</a>               |
+|      02 | 📖 MongoDB-Sammlung (Collection) erstellen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-create-mongodb-collection-420695'>Labor Starten</a>            |
+|      03 | 🎯 Befüllen Sie die Students-Sammlung                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-populate-the-students-collection-425481'>Challenge Starten</a> |
+|      04 | 📖 Daten in MongoDB einfügen                          | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-insert-data-in-mongodb-420696'>Labor Starten</a>               |
+|      05 | 🎯 Honor Roll Tracker                                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-honor-roll-tracker-425476'>Challenge Starten</a>               |
+|      06 | 📖 MongoDB-Einträge aktualisieren                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-update-mongodb-records-420823'>Labor Starten</a>               |
+|      07 | 📖 MongoDB-Daten löschen                              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-delete-mongodb-data-420822'>Labor Starten</a>                  |
+|      08 | 📖 Grundlegende MongoDB-Abfragen schreiben            | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      09 | 📖 MongoDB-Sammlungen filtern                         | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      10 | 📖 Sortieren und Einschränken von MongoDB-Ergebnissen | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      11 | 📖 MongoDB-Felder projizieren                         | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      12 | 📖 Verwenden Sie die grundlegenden MongoDB-Typen      | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      13 | 📖 MongoDB-Arrays verwalten                           | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      14 | 📖 Arbeiten mit MongoDB-Daten                         | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      15 | 📖 MongoDB-Bestell-Schema entwerfen                   | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      16 | 📖 MongoDB-Benutzerprofile erstellen                  | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      17 | 📖 MongoDB-Produkt-Daten strukturieren                | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      18 | 📖 Abfragen von MongoDB-Arrays                        | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      19 | 📖 Verwalten von MongoDB-embedded Dokumenten          | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      20 | 📖 MongoDB-Arrays aktualisieren                       | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      21 | 📖 MongoDB-Indizes erstellen                          | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      22 | 📖 MongoDB-Indexe verwenden                           | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      23 | 📖 MongoDB-Fehler behandeln                           | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      24 | 📖 MongoDB-Daten validieren                           | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      25 | 📖 MongoDB-Daten gruppieren                           | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      26 | 📖 MongoDB-Daten transformieren                       | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      27 | 📖 Zusammenfassen von MongoDB-Daten                   | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      28 | 📖 MongoDB-Daten importieren                          | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      29 | 📖 MongoDB-Daten exportieren                          | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      30 | 📖 MongoDB-Dokumente verknüpfen                       | Anfänger        | Demnächst Verfügbar                                                                                                           |
+|      31 | 📖 MongoDB-Referenzen verwenden                       | Anfänger        | Demnächst Verfügbar                                                                                                           |
 
 ## Mehr
 
