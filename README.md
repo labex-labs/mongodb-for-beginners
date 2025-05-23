@@ -38,6 +38,30 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      05 | 🎯 Honor Roll Tracker               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mongodb-honor-roll-tracker-425476'>Start Challenge</a>               |
 |      06 | 📖 Update MongoDB Records           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mongodb-update-mongodb-records-420823'>Start Lab</a>                 |
 |      07 | 📖 Delete MongoDB Data              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mongodb-delete-mongodb-data-420822'>Start Lab</a>                    |
+|      08 | 📖 Write Basic MongoDB Queries      | Beginner     | Coming Soon                                                                                                              |
+|      09 | 📖 Filter MongoDB Collections       | Beginner     | Coming Soon                                                                                                              |
+|      10 | 📖 Sort and Limit MongoDB Results   | Beginner     | Coming Soon                                                                                                              |
+|      11 | 📖 Project MongoDB Fields           | Beginner     | Coming Soon                                                                                                              |
+|      12 | 📖 Use MongoDB Basic Types          | Beginner     | Coming Soon                                                                                                              |
+|      13 | 📖 Handle MongoDB Arrays            | Beginner     | Coming Soon                                                                                                              |
+|      14 | 📖 Work With MongoDB Dates          | Beginner     | Coming Soon                                                                                                              |
+|      15 | 📖 Design MongoDB Order Schema      | Beginner     | Coming Soon                                                                                                              |
+|      16 | 📖 Build MongoDB User Profiles      | Beginner     | Coming Soon                                                                                                              |
+|      17 | 📖 Structure MongoDB Product Data   | Beginner     | Coming Soon                                                                                                              |
+|      18 | 📖 Query MongoDB Arrays             | Beginner     | Coming Soon                                                                                                              |
+|      19 | 📖 Manage MongoDB Embedded Docs     | Beginner     | Coming Soon                                                                                                              |
+|      20 | 📖 Update MongoDB Arrays            | Beginner     | Coming Soon                                                                                                              |
+|      21 | 📖 Create MongoDB Indexes           | Beginner     | Coming Soon                                                                                                              |
+|      22 | 📖 Use MongoDB Indexes              | Beginner     | Coming Soon                                                                                                              |
+|      23 | 📖 Handle MongoDB Errors            | Beginner     | Coming Soon                                                                                                              |
+|      24 | 📖 Validate MongoDB Data            | Beginner     | Coming Soon                                                                                                              |
+|      25 | 📖 Group MongoDB Data               | Beginner     | Coming Soon                                                                                                              |
+|      26 | 📖 Transform MongoDB Data           | Beginner     | Coming Soon                                                                                                              |
+|      27 | 📖 Summarize MongoDB Data           | Beginner     | Coming Soon                                                                                                              |
+|      28 | 📖 Import MongoDB Data              | Beginner     | Coming Soon                                                                                                              |
+|      29 | 📖 Export MongoDB Data              | Beginner     | Coming Soon                                                                                                              |
+|      30 | 📖 Link MongoDB Documents           | Beginner     | Coming Soon                                                                                                              |
+|      31 | 📖 Use MongoDB References           | Beginner     | Coming Soon                                                                                                              |
 
 ## More
 
