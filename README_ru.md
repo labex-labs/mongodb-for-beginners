@@ -31,17 +31,17 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                     | Сложность   | Практика                                                                                                                     |
 |----------|----------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Ваша первая лабораторная работа с MongoDB | ★★☆         | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-your-first-mongodb-lab-420660'>Начать Лабораторию</a>         |
-|       02 | 📖 Создание коллекции MongoDB                | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-create-mongodb-collection-420695'>Начать Лабораторию</a>      |
-|       03 | 🎯 Заполнение коллекции студентов            | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-populate-the-students-collection-425481'>Начать Испытание</a> |
-|       04 | 📖 Вставка данных в MongoDB                  | ★★☆         | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-insert-data-in-mongodb-420696'>Начать Лабораторию</a>         |
-|       05 | 🎯 Трекер Списка Отличников                  | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-honor-roll-tracker-425476'>Начать Испытание</a>               |
-|       06 | 📖 Обновление записей в MongoDB              | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-update-mongodb-records-420823'>Начать Лабораторию</a>         |
-|       07 | 📖 Удаление данных в MongoDB                 | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-delete-mongodb-data-420822'>Начать Лабораторию</a>            |
+|       01 | 📖 Ваша первая лабораторная работа с MongoDB | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-your-first-mongodb-lab-420660'>Начать Лабораторию</a>         |
+|       02 | 📖 Создание коллекции MongoDB                | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-create-mongodb-collection-420695'>Начать Лабораторию</a>      |
+|       03 | 🎯 Заполнение коллекции студентов            | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-populate-the-students-collection-425481'>Начать Испытание</a> |
+|       04 | 📖 Вставка данных в MongoDB                  | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-insert-data-in-mongodb-420696'>Начать Лабораторию</a>         |
+|       05 | 🎯 Трекер Списка Отличников                  | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-honor-roll-tracker-425476'>Начать Испытание</a>               |
+|       06 | 📖 Обновление записей в MongoDB              | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-update-mongodb-records-420823'>Начать Лабораторию</a>         |
+|       07 | 📖 Удаление данных в MongoDB                 | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/mongodb-delete-mongodb-data-420822'>Начать Лабораторию</a>            |
 
 ## Больше
 
-- 🔗 [MongoDB Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [MongoDB Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
+- 🔗 [MongoDB Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MongoDB Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [MongoDB Бесплатные туториалы](https://github.com/labex-labs/mongodb-free-tutorials)
 
