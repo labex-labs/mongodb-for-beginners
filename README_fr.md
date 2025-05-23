@@ -38,6 +38,30 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 |      05 | 🎯 Suivi de la Honor Roll                    | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-honor-roll-tracker-425476'>Commencer le Défi</a>               |
 |      06 | 📖 Mettre à jour les enregistrements MongoDB | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-update-mongodb-records-420823'>Commencer le Lab</a>            |
 |      07 | 📖 Supprimer des données MongoDB             | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-delete-mongodb-data-420822'>Commencer le Lab</a>               |
+|      08 | 📖 Écrire des requêtes MongoDB de base       | Débutant      | Bientôt Disponible                                                                                                            |
+|      09 | 📖 Filtrer les collections MongoDB           | Débutant      | Bientôt Disponible                                                                                                            |
+|      10 | 📖 Trier et limiter les résultats de MongoDB | Débutant      | Bientôt Disponible                                                                                                            |
+|      11 | 📖 Projeter des champs MongoDB               | Débutant      | Bientôt Disponible                                                                                                            |
+|      12 | 📖 Utiliser les types de base de MongoDB     | Débutant      | Bientôt Disponible                                                                                                            |
+|      13 | 📖 Gérer les tableaux MongoDB                | Débutant      | Bientôt Disponible                                                                                                            |
+|      14 | 📖 Travailler avec les dates de MongoDB      | Débutant      | Bientôt Disponible                                                                                                            |
+|      15 | 📖 Concevoir un schéma d'ordre MongoDB       | Débutant      | Bientôt Disponible                                                                                                            |
+|      16 | 📖 Créer des profils d'utilisateurs MongoDB  | Débutant      | Bientôt Disponible                                                                                                            |
+|      17 | 📖 Structure des données de produits MongoDB | Débutant      | Bientôt Disponible                                                                                                            |
+|      18 | 📖 Interroger les tableaux MongoDB           | Débutant      | Bientôt Disponible                                                                                                            |
+|      19 | 📖 Gérer les documents imbriqués de MongoDB  | Débutant      | Bientôt Disponible                                                                                                            |
+|      20 | 📖 Mettre à jour des tableaux MongoDB        | Débutant      | Bientôt Disponible                                                                                                            |
+|      21 | 📖 Créer des index MongoDB                   | Débutant      | Bientôt Disponible                                                                                                            |
+|      22 | 📖 Utiliser les index MongoDB                | Débutant      | Bientôt Disponible                                                                                                            |
+|      23 | 📖 Gérer les erreurs de MongoDB              | Débutant      | Bientôt Disponible                                                                                                            |
+|      24 | 📖 Valider les données MongoDB               | Débutant      | Bientôt Disponible                                                                                                            |
+|      25 | 📖 Regrouper des données MongoDB             | Débutant      | Bientôt Disponible                                                                                                            |
+|      26 | 📖 Transformer les données MongoDB           | Débutant      | Bientôt Disponible                                                                                                            |
+|      27 | 📖 Résumer les données de MongoDB            | Débutant      | Bientôt Disponible                                                                                                            |
+|      28 | 📖 Importer des données MongoDB              | Débutant      | Bientôt Disponible                                                                                                            |
+|      29 | 📖 Exporter des données MongoDB              | Débutant      | Bientôt Disponible                                                                                                            |
+|      30 | 📖 Lier des documents MongoDB                | Débutant      | Bientôt Disponible                                                                                                            |
+|      31 | 📖 Utiliser les références MongoDB           | Débutant      | Bientôt Disponible                                                                                                            |
 
 ## Plus
 
