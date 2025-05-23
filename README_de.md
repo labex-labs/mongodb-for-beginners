@@ -31,17 +31,17 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                       | Schwierigkeit   | Übung                                                                                                                         |
 |---------|--------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Ihr erstes MongoDB-Lab                  | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-your-first-mongodb-lab-420660'>Labor Starten</a>               |
-|      02 | 📖 MongoDB-Sammlung (Collection) erstellen | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-create-mongodb-collection-420695'>Labor Starten</a>            |
-|      03 | 🎯 Befüllen Sie die Students-Sammlung      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-populate-the-students-collection-425481'>Challenge Starten</a> |
-|      04 | 📖 Daten in MongoDB einfügen               | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-insert-data-in-mongodb-420696'>Labor Starten</a>               |
-|      05 | 🎯 Honor Roll Tracker                      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-honor-roll-tracker-425476'>Challenge Starten</a>               |
-|      06 | 📖 MongoDB-Einträge aktualisieren          | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-update-mongodb-records-420823'>Labor Starten</a>               |
-|      07 | 📖 MongoDB-Daten löschen                   | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-delete-mongodb-data-420822'>Labor Starten</a>                  |
+|      01 | 📖 Ihr erstes MongoDB-Lab                  | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-your-first-mongodb-lab-420660'>Labor Starten</a>               |
+|      02 | 📖 MongoDB-Sammlung (Collection) erstellen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-create-mongodb-collection-420695'>Labor Starten</a>            |
+|      03 | 🎯 Befüllen Sie die Students-Sammlung      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-populate-the-students-collection-425481'>Challenge Starten</a> |
+|      04 | 📖 Daten in MongoDB einfügen               | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-insert-data-in-mongodb-420696'>Labor Starten</a>               |
+|      05 | 🎯 Honor Roll Tracker                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-honor-roll-tracker-425476'>Challenge Starten</a>               |
+|      06 | 📖 MongoDB-Einträge aktualisieren          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-update-mongodb-records-420823'>Labor Starten</a>               |
+|      07 | 📖 MongoDB-Daten löschen                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mongodb-delete-mongodb-data-420822'>Labor Starten</a>                  |
 
 ## Mehr
 
-- 🔗 [MongoDB Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [MongoDB Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
+- 🔗 [MongoDB Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MongoDB Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [MongoDB Kostenlose Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
 
