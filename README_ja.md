@@ -31,17 +31,17 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                  | 難易度   | 練習                                                                                                                         |
 |----------------|---------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 あなたの最初の MongoDB の実験      | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-your-first-mongodb-lab-420660'>ラボを開始</a>                 |
-|             02 | 📖 MongoDB コレクションを作成する     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-create-mongodb-collection-420695'>ラボを開始</a>              |
-|             03 | 🎯 学生コレクションにデータを挿入する | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-populate-the-students-collection-425481'>チャレンジを開始</a> |
-|             04 | 📖 MongoDB にデータを挿入する         | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-insert-data-in-mongodb-420696'>ラボを開始</a>                 |
-|             05 | 🎯 成績優秀者名簿トラッカー           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-honor-roll-tracker-425476'>チャレンジを開始</a>               |
-|             06 | 📖 MongoDB レコードの更新             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-update-mongodb-records-420823'>ラボを開始</a>                 |
-|             07 | 📖 MongoDB のデータを削除する         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-delete-mongodb-data-420822'>ラボを開始</a>                    |
+|             01 | 📖 あなたの最初の MongoDB の実験      | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-your-first-mongodb-lab-420660'>ラボを開始</a>                 |
+|             02 | 📖 MongoDB コレクションを作成する     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-create-mongodb-collection-420695'>ラボを開始</a>              |
+|             03 | 🎯 学生コレクションにデータを挿入する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-populate-the-students-collection-425481'>チャレンジを開始</a> |
+|             04 | 📖 MongoDB にデータを挿入する         | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-insert-data-in-mongodb-420696'>ラボを開始</a>                 |
+|             05 | 🎯 成績優秀者名簿トラッカー           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-honor-roll-tracker-425476'>チャレンジを開始</a>               |
+|             06 | 📖 MongoDB レコードの更新             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-update-mongodb-records-420823'>ラボを開始</a>                 |
+|             07 | 📖 MongoDB のデータを削除する         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/mongodb-delete-mongodb-data-420822'>ラボを開始</a>                    |
 
 ## その他
 
-- 🔗 [MongoDB Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [MongoDB Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
+- 🔗 [MongoDB プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MongoDB プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [MongoDB 無料チュートリアル](https://github.com/labex-labs/mongodb-free-tutorials)
 
