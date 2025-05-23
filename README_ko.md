@@ -29,15 +29,39 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 연습
 
-|   인덱스 | 이름                        | 난이도   | 연습                                                                                                                  |
-|----------|-----------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 첫 번째 MongoDB 랩       | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-your-first-mongodb-lab-420660'>실습 시작</a>           |
-|       02 | 📖 MongoDB 컬렉션 생성하기  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-create-mongodb-collection-420695'>실습 시작</a>        |
-|       03 | 🎯 학생 컬렉션 채우기       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-populate-the-students-collection-425481'>도전 시작</a> |
-|       04 | 📖 MongoDB 데이터 삽입 방법 | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-insert-data-in-mongodb-420696'>실습 시작</a>           |
-|       05 | 🎯 우등생 명단 추적기       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-honor-roll-tracker-425476'>도전 시작</a>               |
-|       06 | 📖 MongoDB 레코드 업데이트  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-update-mongodb-records-420823'>실습 시작</a>           |
-|       07 | 📖 MongoDB 데이터 삭제      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-delete-mongodb-data-420822'>실습 시작</a>              |
+|   인덱스 | 이름                              | 난이도   | 연습                                                                                                                  |
+|----------|-----------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 첫 번째 MongoDB 랩             | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-your-first-mongodb-lab-420660'>실습 시작</a>           |
+|       02 | 📖 MongoDB 컬렉션 생성하기        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-create-mongodb-collection-420695'>실습 시작</a>        |
+|       03 | 🎯 학생 컬렉션 채우기             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-populate-the-students-collection-425481'>도전 시작</a> |
+|       04 | 📖 MongoDB 데이터 삽입 방법       | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-insert-data-in-mongodb-420696'>실습 시작</a>           |
+|       05 | 🎯 우등생 명단 추적기             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-honor-roll-tracker-425476'>도전 시작</a>               |
+|       06 | 📖 MongoDB 레코드 업데이트        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-update-mongodb-records-420823'>실습 시작</a>           |
+|       07 | 📖 MongoDB 데이터 삭제            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-delete-mongodb-data-420822'>실습 시작</a>              |
+|       08 | 📖 기본 MongoDB 쿼리 작성         | 초급     | 곧 출시                                                                                                               |
+|       09 | 📖 MongoDB 컬렉션 필터링          | 초급     | 곧 출시                                                                                                               |
+|       10 | 📖 MongoDB 결과 정렬 및 제한      | 초급     | 곧 출시                                                                                                               |
+|       11 | 📖 Project MongoDB Fields         | 초급     | 곧 출시                                                                                                               |
+|       12 | 📖 Use MongoDB Basic Types        | 초급     | 곧 출시                                                                                                               |
+|       13 | 📖 Handle MongoDB Arrays          | 초급     | 곧 출시                                                                                                               |
+|       14 | 📖 Work With MongoDB Dates        | 초급     | 곧 출시                                                                                                               |
+|       15 | 📖 Design MongoDB Order Schema    | 초급     | 곧 출시                                                                                                               |
+|       16 | 📖 Build MongoDB User Profiles    | 초급     | 곧 출시                                                                                                               |
+|       17 | 📖 Structure MongoDB Product Data | 초급     | 곧 출시                                                                                                               |
+|       18 | 📖 Query MongoDB Arrays           | 초급     | 곧 출시                                                                                                               |
+|       19 | 📖 Manage MongoDB Embedded Docs   | 초급     | 곧 출시                                                                                                               |
+|       20 | 📖 Update MongoDB Arrays          | 초급     | 곧 출시                                                                                                               |
+|       21 | 📖 Create MongoDB Indexes         | 초급     | 곧 출시                                                                                                               |
+|       22 | 📖 Use MongoDB Indexes            | 초급     | 곧 출시                                                                                                               |
+|       23 | 📖 Handle MongoDB Errors          | 초급     | 곧 출시                                                                                                               |
+|       24 | 📖 Validate MongoDB Data          | 초급     | 곧 출시                                                                                                               |
+|       25 | 📖 Group MongoDB Data             | 초급     | 곧 출시                                                                                                               |
+|       26 | 📖 Transform MongoDB Data         | 초급     | 곧 출시                                                                                                               |
+|       27 | 📖 Summarize MongoDB Data         | 초급     | 곧 출시                                                                                                               |
+|       28 | 📖 Import MongoDB Data            | 초급     | 곧 출시                                                                                                               |
+|       29 | 📖 Export MongoDB Data            | 초급     | 곧 출시                                                                                                               |
+|       30 | 📖 Link MongoDB Documents         | 초급     | 곧 출시                                                                                                               |
+|       31 | 📖 Use MongoDB References         | 초급     | 곧 출시                                                                                                               |
 
 ## 더 보기
 
