@@ -25,23 +25,23 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                       | 难度   | 练习                                                                                                                 |
 |--------|----------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 你的第一个 MongoDB 实验 | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-your-first-mongodb-lab-420660'>开始实验</a>           |
-|     02 | 📖 创建 MongoDB 集合       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-create-mongodb-collection-420695'>开始实验</a>        |
-|     03 | 🎯 填充学生集合            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-populate-the-students-collection-425481'>开始挑战</a> |
-|     04 | 📖 在 MongoDB 中插入数据   | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-insert-data-in-mongodb-420696'>开始实验</a>           |
-|     05 | 🎯 荣誉榜追踪器            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-honor-roll-tracker-425476'>开始挑战</a>               |
-|     06 | 📖 更新 MongoDB 记录       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-update-mongodb-records-420823'>开始实验</a>           |
-|     07 | 📖 删除 MongoDB 数据       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-delete-mongodb-data-420822'>开始实验</a>              |
+|     01 | 📖 你的第一个 MongoDB 实验 | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-your-first-mongodb-lab-420660'>开始实验</a>           |
+|     02 | 📖 创建 MongoDB 集合       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-create-mongodb-collection-420695'>开始实验</a>        |
+|     03 | 🎯 填充学生集合            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-populate-the-students-collection-425481'>开始挑战</a> |
+|     04 | 📖 在 MongoDB 中插入数据   | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-insert-data-in-mongodb-420696'>开始实验</a>           |
+|     05 | 🎯 荣誉榜追踪器            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-honor-roll-tracker-425476'>开始挑战</a>               |
+|     06 | 📖 更新 MongoDB 记录       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-update-mongodb-records-420823'>开始实验</a>           |
+|     07 | 📖 删除 MongoDB 数据       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-delete-mongodb-data-420822'>开始实验</a>              |
 
 ## 更多
 
-- 🔗 [MongoDB Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [MongoDB Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
+- 🔗 [MongoDB 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MongoDB 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [MongoDB 免费教程](https://github.com/labex-labs/mongodb-free-tutorials)
 
