@@ -29,19 +29,19 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Exercices
 
-|   Index | Nom                                          | Difficulté   | Pratique                                                                                                                      |
-|---------|----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Votre premier laboratoire MongoDB         | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-your-first-mongodb-lab-420660'>Commencer le Lab</a>            |
-|      02 | 📖 Créer une collection MongoDB              | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-create-mongodb-collection-420695'>Commencer le Lab</a>         |
-|      03 | 🎯 Peupler la collection Students            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-populate-the-students-collection-425481'>Commencer le Défi</a> |
-|      04 | 📖 Insérer des données dans MongoDB          | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-insert-data-in-mongodb-420696'>Commencer le Lab</a>            |
-|      05 | 🎯 Suivi de la Honor Roll                    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-honor-roll-tracker-425476'>Commencer le Défi</a>               |
-|      06 | 📖 Mettre à jour les enregistrements MongoDB | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-update-mongodb-records-420823'>Commencer le Lab</a>            |
-|      07 | 📖 Supprimer des données MongoDB             | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-delete-mongodb-data-420822'>Commencer le Lab</a>               |
+|   Index | Nom                                          | Difficulté    | Pratique                                                                                                                      |
+|---------|----------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Votre premier laboratoire MongoDB         | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-your-first-mongodb-lab-420660'>Commencer le Lab</a>            |
+|      02 | 📖 Créer une collection MongoDB              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-create-mongodb-collection-420695'>Commencer le Lab</a>         |
+|      03 | 🎯 Peupler la collection Students            | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-populate-the-students-collection-425481'>Commencer le Défi</a> |
+|      04 | 📖 Insérer des données dans MongoDB          | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-insert-data-in-mongodb-420696'>Commencer le Lab</a>            |
+|      05 | 🎯 Suivi de la Honor Roll                    | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-honor-roll-tracker-425476'>Commencer le Défi</a>               |
+|      06 | 📖 Mettre à jour les enregistrements MongoDB | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-update-mongodb-records-420823'>Commencer le Lab</a>            |
+|      07 | 📖 Supprimer des données MongoDB             | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/mongodb-delete-mongodb-data-420822'>Commencer le Lab</a>               |
 
 ## Plus
 
-- 🔗 [MongoDB Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [MongoDB Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
+- 🔗 [MongoDB Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MongoDB Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [MongoDB Tutoriels Gratuits](https://github.com/labex-labs/mongodb-free-tutorials)
 
