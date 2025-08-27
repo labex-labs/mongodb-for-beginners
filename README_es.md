@@ -1,53 +1,53 @@
-# Inicio rápido con MongoDB
+# MongoDB para Principiantes
 
 ## Idiomas
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Inicio rápido con MongoDB](https://cover-creator.labex.io/quick-start-with-mongodb.png?lang=es)](https://labex.io/es/courses/quick-start-with-mongodb)
+[![MongoDB para Principiantes](https://cover-creator.labex.io/mongodb-for-beginners.png?lang=es)](https://labex.io/es/courses/mongodb-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/quick-start-with-mongodb)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/mongodb-for-beginners)
 
-Un curso integral de MongoDB que cubre las habilidades esenciales, desde las operaciones CRUD básicas hasta temas avanzados como modelado de datos, indexación, manejo de errores y relaciones de datos. Ideal para principiantes y desarrolladores intermedios.
+Un curso completo de MongoDB que cubre habilidades esenciales desde operaciones CRUD básicas hasta temas avanzados como modelado de datos, indexación, manejo de errores y relaciones de datos. Perfecto para desarrolladores principiantes e intermedios.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-whitesmoke?style=for-the-badge&logo=mongodb)
 
 
 ## Ejercicios
 
-|   Índice | Nombre                                              | Dificultad   | Práctica                                                                                                                    |
-|----------|-----------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 Tu primer laboratorio de MongoDB              | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-your-first-mongodb-lab-420660'>Iniciar Laboratorio</a>       |
-|       02 | 📖 🟢 Crear una colección de MongoDB                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-create-mongodb-collection-420695'>Iniciar Laboratorio</a>    |
-|       03 | 🎯 🟢 Llenar la colección de estudiantes            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-populate-the-students-collection-425481'>Iniciar Desafío</a> |
-|       04 | 📖 🟢 Insertar datos en MongoDB                     | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-insert-data-in-mongodb-420696'>Iniciar Laboratorio</a>       |
-|       05 | 🎯 🟢 Seguimiento de la Lista de Honor              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-honor-roll-tracker-425476'>Iniciar Desafío</a>               |
-|       06 | 📖 🟢 Actualizar registros de MongoDB               | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-update-mongodb-records-420823'>Iniciar Laboratorio</a>       |
-|       07 | 📖 🟢 Eliminar datos de MongoDB                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-delete-mongodb-data-420822'>Iniciar Laboratorio</a>          |
-|       08 | 📖 🟢 Escribir consultas básicas de MongoDB         | Principiante | Próximamente                                                                                                                |
-|       09 | 📖 🟢 Filtrar colecciones de MongoDB                | Principiante | Próximamente                                                                                                                |
-|       10 | 📖 🟢 Ordenar y limitar los resultados de MongoDB   | Principiante | Próximamente                                                                                                                |
-|       11 | 📖 🔵 Proyectar campos de MongoDB                   | Principiante | Próximamente                                                                                                                |
-|       12 | 📖 🔵 Usar los tipos básicos de MongoDB             | Principiante | Próximamente                                                                                                                |
-|       13 | 📖 🔵 Manejar matrices en MongoDB                   | Principiante | Próximamente                                                                                                                |
-|       14 | 📖 🔵 Trabajar con fechas en MongoDB                | Principiante | Próximamente                                                                                                                |
-|       15 | 📖 🔵 Diseñar un esquema de pedido de MongoDB       | Principiante | Próximamente                                                                                                                |
-|       16 | 📖 🔵 Construir perfiles de usuario de MongoDB      | Principiante | Próximamente                                                                                                                |
-|       17 | 📖 🔵 Estructurar los datos de productos en MongoDB | Principiante | Próximamente                                                                                                                |
-|       18 | 📖 🔵 Consultar arrays de MongoDB                   | Principiante | Próximamente                                                                                                                |
-|       19 | 📖 🔵 Gestionar Documentos Incrustados de MongoDB   | Principiante | Próximamente                                                                                                                |
-|       20 | 📖 🔵 Actualizar matrices en MongoDB                | Principiante | Próximamente                                                                                                                |
-|       21 | 📖 🔵 Crear índices en MongoDB                      | Principiante | Próximamente                                                                                                                |
-|       22 | 📖 🔵 Usar Índices de MongoDB                       | Principiante | Próximamente                                                                                                                |
-|       23 | 📖 🔵 Manejar errores de MongoDB                    | Principiante | Próximamente                                                                                                                |
-|       24 | 📖 🔵 Validar datos de MongoDB                      | Principiante | Próximamente                                                                                                                |
-|       25 | 📖 🔵 Agrupar datos de MongoDB                      | Principiante | Próximamente                                                                                                                |
-|       26 | 📖 🔵 Transformar datos de MongoDB                  | Principiante | Próximamente                                                                                                                |
-|       27 | 📖 🔵 Resumir datos de MongoDB                      | Principiante | Próximamente                                                                                                                |
-|       28 | 📖 🔵 Importar datos de MongoDB                     | Principiante | Próximamente                                                                                                                |
-|       29 | 📖 🔵 Exportar datos de MongoDB                     | Principiante | Próximamente                                                                                                                |
-|       30 | 📖 🔵 Vincular documentos de MongoDB                | Principiante | Próximamente                                                                                                                |
-|       31 | 📖 🔵 Usar referencias de MongoDB                   | Principiante | Próximamente                                                                                                                |
+|   Índice | Nombre                                            | Dificultad   | Práctica                                                                                                                      |
+|----------|---------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Tu primer laboratorio de MongoDB            | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-your-first-mongodb-lab-420660'>Iniciar Laboratorio</a>         |
+|       02 | 📖 🟢 Crear una colección de MongoDB              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-create-mongodb-collection-420695'>Iniciar Laboratorio</a>      |
+|       03 | 🎯 🟢 Llenar la colección de estudiantes          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-populate-the-students-collection-425481'>Iniciar Desafío</a>   |
+|       04 | 📖 🟢 Insertar datos en MongoDB                   | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-insert-data-in-mongodb-420696'>Iniciar Laboratorio</a>         |
+|       05 | 🎯 🟢 Seguimiento de la Lista de Honor            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-honor-roll-tracker-425476'>Iniciar Desafío</a>                 |
+|       06 | 📖 🟢 Actualizar registros de MongoDB             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-update-mongodb-records-420823'>Iniciar Laboratorio</a>         |
+|       07 | 📖 🟢 Eliminar datos de MongoDB                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-delete-mongodb-data-420822'>Iniciar Laboratorio</a>            |
+|       08 | 📖 🔵 Escribir Consultas Básicas de MongoDB       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-write-basic-mongodb-queries-420824'>Iniciar Laboratorio</a>    |
+|       09 | 📖 🔵 Filtrar Colecciones de MongoDB              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-filter-mongodb-collections-421806'>Iniciar Laboratorio</a>     |
+|       10 | 📖 🔵 Ordenar y Limitar Resultados de MongoDB     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-sort-and-limit-mongodb-results-421807'>Iniciar Laboratorio</a> |
+|       11 | 📖 🔵 Proyectar Campos en MongoDB                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-project-mongodb-fields-422089'>Iniciar Laboratorio</a>         |
+|       12 | 📖 🔵 Uso de Tipos Básicos de MongoDB             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-use-mongodb-basic-types-422097'>Iniciar Laboratorio</a>        |
+|       13 | 📖 🔵 Manejar Arrays en MongoDB                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-handle-mongodb-arrays-422084'>Iniciar Laboratorio</a>          |
+|       14 | 📖 🔵 Trabajar con Fechas en MongoDB              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-work-with-mongodb-dates-422101'>Iniciar Laboratorio</a>        |
+|       15 | 📖 🔵 Diseñar Esquema de Pedidos en MongoDB       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-design-mongodb-order-schema-422080'>Iniciar Laboratorio</a>    |
+|       16 | 📖 🔵 Crear Perfiles de Usuario en MongoDB        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-build-mongodb-user-profiles-422077'>Iniciar Laboratorio</a>    |
+|       17 | 📖 🔵 Estructurar Datos de Productos en MongoDB   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-structure-mongodb-product-data-422092'>Iniciar Laboratorio</a> |
+|       18 | 📖 🔵 Consultar Arrays en MongoDB                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-query-mongodb-arrays-422090'>Iniciar Laboratorio</a>           |
+|       19 | 📖 🔵 Gestionar Documentos Incrustados en MongoDB | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-manage-mongodb-embedded-docs-422088'>Iniciar Laboratorio</a>   |
+|       20 | 📖 🔵 Actualizar Arrays en MongoDB                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-update-mongodb-arrays-422095'>Iniciar Laboratorio</a>          |
+|       21 | 📖 🔵 Crear Índices en MongoDB                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-create-mongodb-indexes-422078'>Iniciar Laboratorio</a>         |
+|       22 | 📖 🔵 Uso de Índices en MongoDB                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-use-mongodb-indexes-422098'>Iniciar Laboratorio</a>            |
+|       23 | 📖 🔵 Manejar Errores de MongoDB                  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-handle-mongodb-errors-422085'>Iniciar Laboratorio</a>          |
+|       24 | 📖 🔵 Validar Datos en MongoDB                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-validate-mongodb-data-422100'>Iniciar Laboratorio</a>          |
+|       25 | 📖 🔵 Agrupar Datos de MongoDB                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-group-mongodb-data-422083'>Iniciar Laboratorio</a>             |
+|       26 | 📖 🔵 Transformar Datos de MongoDB                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-transform-mongodb-data-422094'>Iniciar Laboratorio</a>         |
+|       27 | 📖 🔵 Resumir Datos de MongoDB                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-summarize-mongodb-data-422093'>Iniciar Laboratorio</a>         |
+|       28 | 📖 🔵 Importar Datos a MongoDB                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-import-mongodb-data-422086'>Iniciar Laboratorio</a>            |
+|       29 | 📖 🔵 Exportar Datos de MongoDB                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-export-mongodb-data-422081'>Iniciar Laboratorio</a>            |
+|       30 | 📖 🔵 Enlazar Documentos de MongoDB               | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-link-mongodb-documents-422087'>Iniciar Laboratorio</a>         |
+|       31 | 📖 🔵 Usar Referencias en MongoDB                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/mongodb-use-mongodb-references-422099'>Iniciar Laboratorio</a>         |
 
 ## Entorno
 
