@@ -15,39 +15,39 @@
 
 ## 연습
 
-|   인덱스 | 이름                             | 난이도   | 연습                                                                                                                  |
-|----------|----------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 첫 번째 MongoDB 랩         | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-your-first-mongodb-lab-420660'>실습 시작</a>           |
-|       02 | 📖 🟢 MongoDB 컬렉션 생성하기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-create-mongodb-collection-420695'>실습 시작</a>        |
-|       03 | 🎯 🟢 학생 컬렉션 채우기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-populate-the-students-collection-425481'>도전 시작</a> |
-|       04 | 📖 🟢 MongoDB 데이터 삽입 방법   | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-insert-data-in-mongodb-420696'>실습 시작</a>           |
-|       05 | 🎯 🟢 우등생 명단 추적기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-honor-roll-tracker-425476'>도전 시작</a>               |
-|       06 | 📖 🟢 MongoDB 레코드 업데이트    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-update-mongodb-records-420823'>실습 시작</a>           |
-|       07 | 📖 🟢 MongoDB 데이터 삭제        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-delete-mongodb-data-420822'>실습 시작</a>              |
-|       08 | 📖 🔵 기본 MongoDB 쿼리 작성     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-write-basic-mongodb-queries-420824'>실습 시작</a>      |
-|       09 | 📖 🔵 MongoDB 컬렉션 필터링      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-filter-mongodb-collections-421806'>실습 시작</a>       |
-|       10 | 📖 🔵 MongoDB 결과 정렬 및 제한  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-sort-and-limit-mongodb-results-421807'>실습 시작</a>   |
-|       11 | 📖 🔵 MongoDB 필드 프로젝션      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-project-mongodb-fields-422089'>실습 시작</a>           |
-|       12 | 📖 🔵 MongoDB 기본 유형 사용법   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-use-mongodb-basic-types-422097'>실습 시작</a>          |
-|       13 | 📖 🔵 MongoDB 배열 처리          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-handle-mongodb-arrays-422084'>실습 시작</a>            |
-|       14 | 📖 🔵 MongoDB 날짜 작업          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-work-with-mongodb-dates-422101'>실습 시작</a>          |
-|       15 | 📖 🔵 MongoDB 주문 스키마 설계   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-design-mongodb-order-schema-422080'>실습 시작</a>      |
-|       16 | 📖 🔵 MongoDB 사용자 프로필 구축 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-build-mongodb-user-profiles-422077'>실습 시작</a>      |
-|       17 | 📖 🔵 MongoDB 제품 데이터 구조화 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-structure-mongodb-product-data-422092'>실습 시작</a>   |
-|       18 | 📖 🔵 MongoDB 배열 쿼리          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-query-mongodb-arrays-422090'>실습 시작</a>             |
-|       19 | 📖 🔵 MongoDB 중첩 문서 관리     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-manage-mongodb-embedded-docs-422088'>실습 시작</a>     |
-|       20 | 📖 🔵 MongoDB 배열 업데이트      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-update-mongodb-arrays-422095'>실습 시작</a>            |
-|       21 | 📖 🔵 MongoDB 인덱스 생성        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-create-mongodb-indexes-422078'>실습 시작</a>           |
-|       22 | 📖 🔵 MongoDB 인덱스 사용법      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-use-mongodb-indexes-422098'>실습 시작</a>              |
-|       23 | 📖 🔵 MongoDB 오류 처리          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-handle-mongodb-errors-422085'>실습 시작</a>            |
-|       24 | 📖 🔵 MongoDB 데이터 유효성 검사 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-validate-mongodb-data-422100'>실습 시작</a>            |
-|       25 | 📖 🔵 MongoDB 데이터 그룹화      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-group-mongodb-data-422083'>실습 시작</a>               |
-|       26 | 📖 🔵 MongoDB 데이터 변환하기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-transform-mongodb-data-422094'>실습 시작</a>           |
-|       27 | 📖 🔵 MongoDB 데이터 요약        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-summarize-mongodb-data-422093'>실습 시작</a>           |
-|       28 | 📖 🔵 MongoDB 데이터 가져오기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-import-mongodb-data-422086'>실습 시작</a>              |
-|       29 | 📖 🔵 MongoDB 데이터 내보내기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-export-mongodb-data-422081'>실습 시작</a>              |
-|       30 | 📖 🔵 MongoDB 문서 연결          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-link-mongodb-documents-422087'>실습 시작</a>           |
-|       31 | 📖 🔵 MongoDB 참조 사용법        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-use-mongodb-references-422099'>실습 시작</a>           |
+|   인덱스 | 이름                           | 난이도   | 연습                                                                                                                  |
+|----------|--------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 첫 MongoDB 실습          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-your-first-mongodb-lab-420660'>실습 시작</a>           |
+|       02 | 📖 🆓 MongoDB 컬렉션 생성      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-create-mongodb-collection-420695'>실습 시작</a>        |
+|       03 | 🎯 🆓 학생 컬렉션 채우기       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-populate-the-students-collection-425481'>도전 시작</a> |
+|       04 | 📖 🆓 MongoDB 데이터 삽입      | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-insert-data-in-mongodb-420696'>실습 시작</a>           |
+|       05 | 🎯 🆓 우등생 명단 추적기       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-honor-roll-tracker-425476'>도전 시작</a>               |
+|       06 | 📖 🆓 MongoDB 레코드 업데이트  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-update-mongodb-records-420823'>실습 시작</a>           |
+|       07 | 📖 🆓 MongoDB 데이터 삭제      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-delete-mongodb-data-420822'>실습 시작</a>              |
+|       08 | 📖  기본 MongoDB 쿼리 작성     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-write-basic-mongodb-queries-420824'>실습 시작</a>      |
+|       09 | 📖  MongoDB 컬렉션 필터링      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-filter-mongodb-collections-421806'>실습 시작</a>       |
+|       10 | 📖  MongoDB 결과 정렬 및 제한  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-sort-and-limit-mongodb-results-421807'>실습 시작</a>   |
+|       11 | 📖  MongoDB 필드 프로젝션      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-project-mongodb-fields-422089'>실습 시작</a>           |
+|       12 | 📖  MongoDB 기본 유형 사용법   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-use-mongodb-basic-types-422097'>실습 시작</a>          |
+|       13 | 📖  MongoDB 배열 처리          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-handle-mongodb-arrays-422084'>실습 시작</a>            |
+|       14 | 📖  MongoDB 날짜 작업          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-work-with-mongodb-dates-422101'>실습 시작</a>          |
+|       15 | 📖  MongoDB 주문 스키마 설계   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-design-mongodb-order-schema-422080'>실습 시작</a>      |
+|       16 | 📖  MongoDB 사용자 프로필 구축 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-build-mongodb-user-profiles-422077'>실습 시작</a>      |
+|       17 | 📖  MongoDB 제품 데이터 구조화 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-structure-mongodb-product-data-422092'>실습 시작</a>   |
+|       18 | 📖  MongoDB 배열 쿼리          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-query-mongodb-arrays-422090'>실습 시작</a>             |
+|       19 | 📖  MongoDB 중첩 문서 관리     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-manage-mongodb-embedded-docs-422088'>실습 시작</a>     |
+|       20 | 📖  MongoDB 배열 업데이트      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-update-mongodb-arrays-422095'>실습 시작</a>            |
+|       21 | 📖  MongoDB 인덱스 생성        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-create-mongodb-indexes-422078'>실습 시작</a>           |
+|       22 | 📖  MongoDB 인덱스 사용법      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-use-mongodb-indexes-422098'>실습 시작</a>              |
+|       23 | 📖  MongoDB 오류 처리          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-handle-mongodb-errors-422085'>실습 시작</a>            |
+|       24 | 📖  MongoDB 데이터 유효성 검사 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-validate-mongodb-data-422100'>실습 시작</a>            |
+|       25 | 📖  MongoDB 데이터 그룹화      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-group-mongodb-data-422083'>실습 시작</a>               |
+|       26 | 📖  MongoDB 데이터 변환하기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-transform-mongodb-data-422094'>실습 시작</a>           |
+|       27 | 📖  MongoDB 데이터 요약        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-summarize-mongodb-data-422093'>실습 시작</a>           |
+|       28 | 📖  MongoDB 데이터 가져오기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-import-mongodb-data-422086'>실습 시작</a>              |
+|       29 | 📖  MongoDB 데이터 내보내기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-export-mongodb-data-422081'>실습 시작</a>              |
+|       30 | 📖  MongoDB 문서 연결          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-link-mongodb-documents-422087'>실습 시작</a>           |
+|       31 | 📖  MongoDB 참조 사용법        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mongodb-use-mongodb-references-422099'>실습 시작</a>           |
 
 ## 환경
 
