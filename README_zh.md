@@ -15,39 +15,39 @@
 
 ## 练习
 
-|   序号 | 名称                            | 难度   | 练习                                                                                                                 |
-|--------|---------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🟢 你的第一个 MongoDB 实验   | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-your-first-mongodb-lab-420660'>开始实验</a>           |
-|     02 | 📖 🟢 创建 MongoDB 集合         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-create-mongodb-collection-420695'>开始实验</a>        |
-|     03 | 🎯 🟢 填充学生集合              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-populate-the-students-collection-425481'>开始挑战</a> |
-|     04 | 📖 🟢 在 MongoDB 中插入数据     | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-insert-data-in-mongodb-420696'>开始实验</a>           |
-|     05 | 🎯 🟢 荣誉榜追踪器              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-honor-roll-tracker-425476'>开始挑战</a>               |
-|     06 | 📖 🟢 更新 MongoDB 记录         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-update-mongodb-records-420823'>开始实验</a>           |
-|     07 | 📖 🟢 删除 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-delete-mongodb-data-420822'>开始实验</a>              |
-|     08 | 📖 🔵 编写基础 MongoDB 查询     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-write-basic-mongodb-queries-420824'>开始实验</a>      |
-|     09 | 📖 🔵 过滤 MongoDB 集合         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-filter-mongodb-collections-421806'>开始实验</a>       |
-|     10 | 📖 🔵 排序和限制 MongoDB 结果   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-sort-and-limit-mongodb-results-421807'>开始实验</a>   |
-|     11 | 📖 🔵 MongoDB 字段投影          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-project-mongodb-fields-422089'>开始实验</a>           |
-|     12 | 📖 🔵 使用 MongoDB 基本数据类型 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-use-mongodb-basic-types-422097'>开始实验</a>          |
-|     13 | 📖 🔵 处理 MongoDB 数组         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-handle-mongodb-arrays-422084'>开始实验</a>            |
-|     14 | 📖 🔵 处理 MongoDB 日期         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-work-with-mongodb-dates-422101'>开始实验</a>          |
-|     15 | 📖 🔵 设计 MongoDB 订单 Schema  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-design-mongodb-order-schema-422080'>开始实验</a>      |
-|     16 | 📖 🔵 构建 MongoDB 用户配置文件 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-build-mongodb-user-profiles-422077'>开始实验</a>      |
-|     17 | 📖 🔵 构建 MongoDB 产品数据结构 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-structure-mongodb-product-data-422092'>开始实验</a>   |
-|     18 | 📖 🔵 查询 MongoDB 数组         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-query-mongodb-arrays-422090'>开始实验</a>             |
-|     19 | 📖 🔵 管理 MongoDB 嵌入式文档   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-manage-mongodb-embedded-docs-422088'>开始实验</a>     |
-|     20 | 📖 🔵 更新 MongoDB 数组         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-update-mongodb-arrays-422095'>开始实验</a>            |
-|     21 | 📖 🔵 创建 MongoDB 索引         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-create-mongodb-indexes-422078'>开始实验</a>           |
-|     22 | 📖 🔵 使用 MongoDB 索引         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-use-mongodb-indexes-422098'>开始实验</a>              |
-|     23 | 📖 🔵 处理 MongoDB 错误         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-handle-mongodb-errors-422085'>开始实验</a>            |
-|     24 | 📖 🔵 验证 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-validate-mongodb-data-422100'>开始实验</a>            |
-|     25 | 📖 🔵 MongoDB 数据分组          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-group-mongodb-data-422083'>开始实验</a>               |
-|     26 | 📖 🔵 转换 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-transform-mongodb-data-422094'>开始实验</a>           |
-|     27 | 📖 🔵 汇总 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-summarize-mongodb-data-422093'>开始实验</a>           |
-|     28 | 📖 🔵 导入 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-import-mongodb-data-422086'>开始实验</a>              |
-|     29 | 📖 🔵 导出 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-export-mongodb-data-422081'>开始实验</a>              |
-|     30 | 📖 🔵 链接 MongoDB 文档         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-link-mongodb-documents-422087'>开始实验</a>           |
-|     31 | 📖 🔵 使用 MongoDB 引用         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-use-mongodb-references-422099'>开始实验</a>           |
+|   序号 | 名称                          | 难度   | 练习                                                                                                                 |
+|--------|-------------------------------|--------|----------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 🆓 你的第一个 MongoDB 实验 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-your-first-mongodb-lab-420660'>开始实验</a>           |
+|     02 | 📖 🆓 创建 MongoDB 集合       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-create-mongodb-collection-420695'>开始实验</a>        |
+|     03 | 🎯 🆓 填充学生集合            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-populate-the-students-collection-425481'>开始挑战</a> |
+|     04 | 📖 🆓 在 MongoDB 中插入数据   | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-insert-data-in-mongodb-420696'>开始实验</a>           |
+|     05 | 🎯 🆓 荣誉榜追踪器            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-honor-roll-tracker-425476'>开始挑战</a>               |
+|     06 | 📖 🆓 更新 MongoDB 记录       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-update-mongodb-records-420823'>开始实验</a>           |
+|     07 | 📖 🆓 删除 MongoDB 数据       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-delete-mongodb-data-420822'>开始实验</a>              |
+|     08 | 📖  编写基础 MongoDB 查询     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-write-basic-mongodb-queries-420824'>开始实验</a>      |
+|     09 | 📖  过滤 MongoDB 集合         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-filter-mongodb-collections-421806'>开始实验</a>       |
+|     10 | 📖  排序和限制 MongoDB 结果   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-sort-and-limit-mongodb-results-421807'>开始实验</a>   |
+|     11 | 📖  MongoDB 字段投影          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-project-mongodb-fields-422089'>开始实验</a>           |
+|     12 | 📖  使用 MongoDB 基本数据类型 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-use-mongodb-basic-types-422097'>开始实验</a>          |
+|     13 | 📖  处理 MongoDB 数组         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-handle-mongodb-arrays-422084'>开始实验</a>            |
+|     14 | 📖  处理 MongoDB 日期         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-work-with-mongodb-dates-422101'>开始实验</a>          |
+|     15 | 📖  设计 MongoDB 订单 Schema  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-design-mongodb-order-schema-422080'>开始实验</a>      |
+|     16 | 📖  构建 MongoDB 用户配置文件 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-build-mongodb-user-profiles-422077'>开始实验</a>      |
+|     17 | 📖  构建 MongoDB 产品数据结构 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-structure-mongodb-product-data-422092'>开始实验</a>   |
+|     18 | 📖  查询 MongoDB 数组         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-query-mongodb-arrays-422090'>开始实验</a>             |
+|     19 | 📖  管理 MongoDB 嵌入式文档   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-manage-mongodb-embedded-docs-422088'>开始实验</a>     |
+|     20 | 📖  更新 MongoDB 数组         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-update-mongodb-arrays-422095'>开始实验</a>            |
+|     21 | 📖  创建 MongoDB 索引         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-create-mongodb-indexes-422078'>开始实验</a>           |
+|     22 | 📖  使用 MongoDB 索引         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-use-mongodb-indexes-422098'>开始实验</a>              |
+|     23 | 📖  处理 MongoDB 错误         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-handle-mongodb-errors-422085'>开始实验</a>            |
+|     24 | 📖  验证 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-validate-mongodb-data-422100'>开始实验</a>            |
+|     25 | 📖  MongoDB 数据分组          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-group-mongodb-data-422083'>开始实验</a>               |
+|     26 | 📖  转换 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-transform-mongodb-data-422094'>开始实验</a>           |
+|     27 | 📖  汇总 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-summarize-mongodb-data-422093'>开始实验</a>           |
+|     28 | 📖  导入 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-import-mongodb-data-422086'>开始实验</a>              |
+|     29 | 📖  导出 MongoDB 数据         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-export-mongodb-data-422081'>开始实验</a>              |
+|     30 | 📖  链接 MongoDB 文档         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-link-mongodb-documents-422087'>开始实验</a>           |
+|     31 | 📖  使用 MongoDB 引用         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/mongodb-use-mongodb-references-422099'>开始实验</a>           |
 
 ## 学习环境
 
